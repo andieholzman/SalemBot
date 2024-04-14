@@ -1,0 +1,8 @@
+{
+    "token":"disc_bot_token_here",
+    "clientId":"disc_bot_client_id_here",
+    "guildId":"server_id_here",
+    "dbUser":"mongo_user_here",
+    "dbPassword":"mongo_password_here",
+    "dbConnStr":"mongo_conn_str_here"
+}
